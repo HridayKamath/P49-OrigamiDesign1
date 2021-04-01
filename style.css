@@ -1,0 +1,30 @@
+h1{
+    color: red;
+    font-family: showcard gothic;
+    border: solid;
+    border-color:brown;
+    background-color: yellow;
+  }
+   /*  P{
+       border: solid;
+       border-color: rgb(218, 91, 91);
+      font-size: 5mm;
+       text-decoration-style: bold;
+   }
+       */
+
+   IMG{
+       height: 300px;
+       width:  300px;
+       border: dashed;
+       border-color: black;
+   }
+   .a{
+    color: blue;
+    border: solid;
+    border-color: green;
+    border-width: 1mm;
+    font-size: 25px;
+    padding: 0.02px;
+    margin: 2px;
+   }
